@@ -1,0 +1,11 @@
+D:\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.exe
+D:\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.deps.json
+D:\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.runtimeconfig.json
+D:\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.runtimeconfig.dev.json
+D:\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.dll
+D:\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.pdb
+D:\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.csprojAssemblyReference.cache
+D:\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.AssemblyInfoInputs.cache
+D:\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.AssemblyInfo.cs
+D:\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.dll
+D:\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.pdb
